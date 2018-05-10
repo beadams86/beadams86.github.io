@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="45px" viewBox="0 0 29 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-136.000000, -30.000000)">
+            <g id="Group-4" transform="translate(136.000000, 30.000000)">
+                <circle id="Oval-3" fill="#111111" cx="14.5" cy="29.5" r="14.5"></circle>
+                <circle id="Oval-3" fill="#FFFFFF" cx="14.75" cy="29.75" r="5.75"></circle>
+                <path d="M6,30 L3.55271368e-15,30 L3.71924713e-15,28.5 L6.38378239e-15,4.5 L3.55271368e-15,3 L6,3 L8,3 L8,4.5 L8,28.5 L8,30 L6,30 Z" id="Combined-Shape" fill="#111111"></path>
+                <circle id="Oval" fill="#111111" cx="4" cy="4" r="4"></circle>
+                <circle id="Oval" fill="#111111" cx="25" cy="41" r="4"></circle>
+                <path d="M27,40 L21,40 L21,39.3888889 L21,29.6111111 L21,29 L27,29 L29,29 L29,29.6111111 L29,39.3888889 L29,40 L27,40 Z" id="Combined-Shape" fill="#111111"></path>
+            </g>
+        </g>
+    </g>
+</svg>
