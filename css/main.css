@@ -143,7 +143,7 @@ a {
 }
 
 a:hover {
-  color: #012353;
+  color: #b0e7ff;
 }
 
 code {
@@ -511,7 +511,7 @@ html, body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to top, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.1) 40%, transparent 100%);
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0.2) 40%, rgba(0, 0, 0, 0.1) 100%);
 }
 
 .portfolio-scroll .single-item:first-of-type {
@@ -528,7 +528,7 @@ html, body {
   display: block;
   width: 100%;
   font-size: 0.8rem;
-  color: #4277FF;
+  color: #b0e7ff;
   margin-bottom: .5rem;
   font-weight: 700;
   opacity: 0.5;
